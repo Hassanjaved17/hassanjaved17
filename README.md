@@ -1,28 +1,321 @@
-<h1 align="center">Hi 👋, I'm Hassan Javed</h1>
-<h3 align="center">A passionate web developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Javed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjaved17&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjaved17" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Cisco+Certified+Web+Developer+%F0%9F%8E%93;Building+Responsive+Web+Solutions+%F0%9F%92%BB;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanjaved17" alt="hassanjaved17" /></a> </p>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hassanjaveds.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-javed)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanjaved17)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=hassanjaved17&label=Profile%20Views&color=0e75b6&style=flat)
+  
+</div>
 
-- 🌱 I’m currently learning **Next.js and Backend Technologies**
+---
 
-- 👨‍💻 All of my projects are available at [https://hassanjaveds.netlify.app/](https://hassanjaveds.netlify.app/)
+## 👨‍💻 About Me
+```javascript
+const hassan = {
+    location: "Karachi, Pakistan 🇵🇰",
+    role: "Full Stack MERN Developer",
+    education: "Saylani Mass IT Training (SMIT)",
+    certifications: [
+        "Cisco - HTML Essentials",
+        "Cisco - CSS Essentials", 
+        "Cisco - JavaScript Essentials"
+    ],
+    currentFocus: "Building scalable web applications",
+    learning: ["React.js", "Node.js", "MongoDB", "Express.js"],
+    interests: ["Web Development", "UI/UX Design", "Open Source"],
+    funFact: "I debug with console.log() 🐛",
+    availableFor: "Freelance Projects & Collaborations"
+};
+```
 
-- 📫 How to reach me **hassandeveloper341@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/hassan javed](https://www.linkedin.com/in/hassanjaveds/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan javed" height="30" width="40" /></a>
-<a href="https://fb.com/hassan javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan javed" height="30" width="40" /></a>
-<a href="https://instagram.com/hassan javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan javed" height="30" width="40" /></a>
+### 🎯 Current Goals
+- 🔭 Working on **MERN Stack Projects**
+- 🌱 Mastering **React & Backend Development**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 📫 Reach me: **your.email@gmail.com**
+- ⚡ Portfolio: **[hassanjaveds.netlify.app](https://hassanjaveds.netlify.app/)**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanjaved17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassanjaved17&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanjaved17&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjaved17&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Rental Car Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=hassanjaved17&repo=Rent-Car-Landing-Page&theme=radical&hide_border=true)](https://github.com/hassanjaved17/Rent-Car-Landing-Page)
+
+</div>
+
+### 🚀 Live Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚗 Rental Car Landing Page</h3>
+      <a href="https://hassanjaved17.github.io/Rent-Car-Landing-Page/">
+        <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+      </a>
+      <br/>
+      <p>Responsive car rental website built with HTML, CSS & JavaScript</p>
+      <p><strong>Tech:</strong> HTML5 • CSS3 • JavaScript</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <a href="https://hassanjaveds.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+      </a>
+      <br/>
+      <p>Personal portfolio showcasing projects and skills</p>
+      <p><strong>Tech:</strong> React • Tailwind CSS • JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏋️ FIT-ZONE E-commerce</h3>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Coming_Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white" alt="Coming Soon"/>
+      </a>
+      <br/>
+      <p>Full-stack fitness e-commerce platform</p>
+      <p><strong>Tech:</strong> MERN Stack</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📝 More Projects</h3>
+      <a href="https://github.com/hassanjaved17?tab=repositories">
+        <img src="https://img.shields.io/badge/View_All-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
+      </a>
+      <br/>
+      <p>Explore all my repositories</p>
+      <p><strong>50+ Projects</strong> and counting...</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+  
+| Certificate | Issuer | Year |
+|------------|--------|------|
+| 🏆 HTML Essentials | Cisco Networking Academy | 2024 |
+| 🏆 CSS Essentials | Cisco Networking Academy | 2024 |
+| 🏆 JavaScript Essentials | Cisco Networking Academy | 2024 |
+| 🏆 MERN Stack Development | Saylani Mass IT Training | 2024 |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanjaved17&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🌟 Support My Work
+
+<div align="center">
+  
+If you like my projects, consider giving them a ⭐️!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
+
+</div>
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+### 💬 **I'm always open to interesting conversations and collaboration opportunities!**
+
+<p>
+  <a href="https://hassanjaveds.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hassan-javed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanjaved17&show_icons=true&locale=en&layout=compact" alt="hassanjaved17" /></p>
+<p>
+  <a href="https://wa.me/923xxxxxxxxx" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discord.com/users/youruserid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanjaved17&show_icons=true&locale=en" alt="hassanjaved17" /></p>
+### 📱 **Scan to Connect**
+<p>
+  <i>Coming Soon: QR Code for quick contact</i>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanjaved17&" alt="hassanjaved17" /></p>
+</div>
+
+---
+
+## 🎯 2024 Goals
+
+- ✅ Complete Cisco Web Development Certifications
+- 🔄 Build 10+ Full-Stack Projects
+- 🔄 Contribute to Open Source
+- 📚 Master React & Node.js
+- 🎓 Get Freelance Clients
+- 🌟 Reach 1000+ LinkedIn Connections
+- 💼 Land a Developer Role
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built My First MERN Stack App](#)
+- [10 JavaScript Tips Every Developer Should Know](#)
+- [My Journey from Zero to Web Developer](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hassanjaved17/hassanjaved17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+### ⭐️ **If you find my work interesting, consider following me!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**Made with ❤️ by Hassan Javed**
+
+*Last Updated: December 2024*
+
+</div>
+```
+
+---
+
+
+   https://facebook.com/yourusername → your actual Facebook
+```
+
+3. **LinkedIn URL:**
+```
+   https://www.linkedin.com/in/hassan-javed → your actual LinkedIn
+```
+
+4. **WhatsApp:**
+```
+   923xxxxxxxxx → your WhatsApp number (with country code)
