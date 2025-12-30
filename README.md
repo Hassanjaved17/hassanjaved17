@@ -9,11 +9,10 @@
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hassanjaveds.netlify.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-javed)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanjaveds/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanjaved17)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassandeveloper341@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hassan_javed_17)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=hassanjaved17&label=Profile%20Views&color=0e75b6&style=flat)
   
@@ -47,7 +46,7 @@ const hassan = {
 - 🌱 Mastering **React & Backend Development**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me: **your.email@gmail.com**
+- 📫 Reach me: **hassandeveloper341@gmail.com**
 - ⚡ Portfolio: **[hassanjaveds.netlify.app](https://hassanjaveds.netlify.app/)**
 
 ---
@@ -60,7 +59,6 @@ const hassan = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -144,7 +142,7 @@ const hassan = {
   <tr>
     <td align="center" width="50%">
       <h3>🏋️ FIT-ZONE E-commerce</h3>
-      <a href="#">
+      <a href="https://hassanjaved17.github.io/FitZone-E-com-store/">
         <img src="https://img.shields.io/badge/Coming_Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white" alt="Coming Soon"/>
       </a>
       <br/>
@@ -171,10 +169,10 @@ const hassan = {
   
 | Certificate | Issuer | Year |
 |------------|--------|------|
-| 🏆 HTML Essentials | Cisco Networking Academy | 2024 |
-| 🏆 CSS Essentials | Cisco Networking Academy | 2024 |
-| 🏆 JavaScript Essentials | Cisco Networking Academy | 2024 |
-| 🏆 MERN Stack Development | Saylani Mass IT Training | 2024 |
+| 🏆 HTML Essentials | Cisco Networking Academy | 2025 |
+| 🏆 CSS Essentials | Cisco Networking Academy | 2025 |
+| 🏆 JavaScript Essentials | Cisco Networking Academy | 2025 |
+| 🏆 MERN Stack Development | Saylani Mass IT Training | 2025 |
 
 </div>
 
@@ -202,9 +200,6 @@ const hassan = {
   
 If you like my projects, consider giving them a ⭐️!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
-
 </div>
 
 ---
@@ -219,32 +214,29 @@ If you like my projects, consider giving them a ⭐️!
   <a href="https://hassanjaveds.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/hassan-javed" target="_blank">
+  <a href="https://www.linkedin.com/in/hassanjaveds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:hassandeveloper341@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/hassan_javed_17" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/DeveloperH96894" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://facebook.com/hassanjaved" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
 <p>
-  <a href="https://wa.me/923xxxxxxxxx" target="_blank">
+  <a href="https://wa.me/923302479878" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://discord.com/users/youruserid" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -260,10 +252,10 @@ If you like my projects, consider giving them a ⭐️!
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - ✅ Complete Cisco Web Development Certifications
-- 🔄 Build 10+ Full-Stack Projects
+- 🔄 Build 10+ Projects
 - 🔄 Contribute to Open Source
 - 📚 Master React & Node.js
 - 🎓 Get Freelance Clients
@@ -305,17 +297,3 @@ If you like my projects, consider giving them a ⭐️!
 </div>
 ```
 
----
-
-
-   https://facebook.com/yourusername → your actual Facebook
-```
-
-3. **LinkedIn URL:**
-```
-   https://www.linkedin.com/in/hassan-javed → your actual LinkedIn
-```
-
-4. **WhatsApp:**
-```
-   923xxxxxxxxx → your WhatsApp number (with country code)
