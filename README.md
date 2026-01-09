@@ -90,7 +90,7 @@ const hassan = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanjaved17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hassanjaved17&theme=radical&no-frame=true&margin-w=4&row=1)
 </div>
 
 ---
@@ -98,12 +98,12 @@ const hassan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassanjaved17&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanjaved17&theme=radical&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanjaved17&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanjaved17&theme=radical&hide_border=true)
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjaved17&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjaved17&layout=compact&theme=radical&hide_border=true&langs_count=8)
 </div>
 
 ---
