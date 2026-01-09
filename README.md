@@ -90,7 +90,7 @@ const hassan = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hassanjaved17&theme=radical&no-frame=true&margin-w=4&row=1)
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanjaved17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -98,12 +98,12 @@ const hassan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanjaved17&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanjaved17&theme=radical&hide_border=true)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassanjaved17&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanjaved17&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjaved17&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjaved17&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -143,11 +143,11 @@ const hassan = {
     <td align="center" width="50%">
       <h3>🏋️ FIT-ZONE E-commerce</h3>
       <a href="https://hassanjaved17.github.io/FitZone-E-com-store/">
-        <img src="https://img.shields.io/badge/Coming_Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white" alt="Coming Soon"/>
+        <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo"/>
       </a>
       <br/>
       <p>Full-stack fitness e-commerce platform</p>
-      <p><strong>Tech:</strong> MERN Stack</p>
+      <p><strong>Tech:</strong> HTML • CSS • JavaScript</p>
     </td>
     <td align="center" width="50%">
       <h3>📝 More Projects</h3>
@@ -156,7 +156,7 @@ const hassan = {
       </a>
       <br/>
       <p>Explore all my repositories</p>
-      <p><strong>50+ Projects</strong> and counting...</p>
+      <p><strong>20+ Projects</strong> and counting...</p>
     </td>
   </tr>
 </table>
@@ -227,7 +227,7 @@ If you like my projects, consider giving them a ⭐️!
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/DeveloperH96894" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://facebook.com/hassanjaved" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -238,14 +238,6 @@ If you like my projects, consider giving them a ⭐️!
   <a href="https://wa.me/923302479878" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://discord.com/users/youruserid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-### 📱 **Scan to Connect**
-<p>
-  <i>Coming Soon: QR Code for quick contact</i>
 </p>
 
 </div>
@@ -255,7 +247,7 @@ If you like my projects, consider giving them a ⭐️!
 ## 🎯 2025 Goals
 
 - ✅ Complete Cisco Web Development Certifications
-- 🔄 Build 10+ Projects
+- 🔄 Build 20+ Full-Stack Projects
 - 🔄 Contribute to Open Source
 - 📚 Master React & Node.js
 - 🎓 Get Freelance Clients
@@ -274,14 +266,6 @@ If you like my projects, consider giving them a ⭐️!
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hassanjaved17/hassanjaved17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   
 ### 💭 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
@@ -292,8 +276,6 @@ If you like my projects, consider giving them a ⭐️!
 
 **Made with ❤️ by Hassan Javed**
 
-*Last Updated: December 2024*
+*Last Updated: January 2025*
 
 </div>
-```
-
