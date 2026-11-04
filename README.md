@@ -190,14 +190,12 @@ Deepening PostgreSQL modeling and moving backend services to TypeScript.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Hassanjaved17&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=00fff0&icon_color=7b2fff&text_color=c9d1d9&ring_color=00fff0" alt="GitHub Stats"/>
 <img height="175" src="https://streak-stats.demolab.com?user=Hassanjaved17&theme=dark&hide_border=true&background=0a0a0a&ring=00fff0&fire=00fff0&currStreakLabel=00fff0&sideLabels=7b2fff&dates=8b949e" alt="Streak"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanjaved17&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00fff0&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hassanjaved17&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanjaved17&bg_color=0a0a0a&color=00fff0&line=7b2fff&point=00fff0&area=true&area_color=00fff020&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Contribution Graph"/>
+
 
 </div>
 
