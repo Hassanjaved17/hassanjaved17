@@ -215,7 +215,8 @@ Deepening PostgreSQL modeling and moving backend services to TypeScript.
 
 | 🏅 Credential | Issuer | Year |
 |:--|:--|:-:|
-| **Modern Web Application Development (MERN Stack)** | Saylani Mass IT Training (SMIT) | 2025 |
+| **Modern Web Application Development (MERN Stack)** | Saylani Mass IT Training (SMIT) | 2026 |
+| **JavaScript Full Stack (MEAN/MERN), Grade A+** | NAVTTC · PM's Youth Skills Development Program | 2025 |
 | **JavaScript Essentials 1** | Cisco Networking Academy | 2025 |
 | **CSS Essentials** | Cisco Networking Academy | 2025 |
 | **HTML Essentials** | Cisco Networking Academy | 2025 |
